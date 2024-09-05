@@ -1,0 +1,13 @@
+{
+  "name": "educypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "handika",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.14.1"
+  },
+  "scripts": {
+    "test": "cypress open"
+  }
+}
